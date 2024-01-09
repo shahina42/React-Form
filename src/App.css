@@ -1,0 +1,40 @@
+body{
+padding-left: 35%;
+padding-top: 5%;
+}
+.form{
+  display: grid;
+justify-content: center;
+align-items: center;
+border: 2px solid rgb(138, 138, 138);
+width: 400px;
+height: 400px;
+background-color: rgb(234, 248, 243); 
+}
+
+input{
+ 
+
+}
+
+button{
+  width: 100px;
+  margin-left: 25%;
+  background-color: rgb(211, 11, 11);
+  border: 1px solid  rgb(211, 11, 11);
+  color: white;
+}
+
+button:hover{
+  background-color: white;
+  color: rgb(211, 11, 11);
+}
+
+h1{
+  color: rgb(12, 112, 12);
+}
+
+p{
+  font-size: 15px;
+  color: rgb(255, 20, 20);
+}
